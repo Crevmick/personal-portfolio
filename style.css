@@ -1,0 +1,21 @@
+/* div{
+    border: 1px solid green;
+} */
+
+nav {
+    display: flex;
+}
+
+.ul{
+    list-style-type: none;
+    display: flex;
+    display: flex;justify-content: space-around;
+}
+.menu{
+    width: 55%;
+    background-color: blue;
+    
+}
+#contact {width: 45%;
+    background-color: green;
+}
